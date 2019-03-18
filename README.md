@@ -8,4 +8,4 @@ Contains the code in notebook
 ## WebApp Link
 https://first-service.onrender.com/
 
-We can upload the picture of any boat and the application will recognize whether it is a red boat or not. If it is red, then the application will recognize as 'red' boat and for all other boats application will display category as 'boat'.
+We can upload the picture of any boat and the application will recognize whether it is a red boat or not. If it is red, then the application will recognize as 'red' boat and for any other colored boats, application will display category as 'boat'.
